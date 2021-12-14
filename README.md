@@ -17,6 +17,6 @@ threads and processes
 
 ## Bonus part
 - Include an extra projection (paralel)
-- Zoom by '+'/'-'
-- Move map
+- Zoom by '+'/'-' (protected too big/too small)
+- Move map (protected out of view)
 - Rotating map with mouse
