@@ -1,9 +1,7 @@
 # fdf_42
 
 ## Info
-threads and processes
-
-<img width="201" alt="Screen Shot 2021-11-20 at 9 54 09 PM" src="https://user-images.githubusercontent.com/94758944/143722228-f01e02a5-4cd7-4e02-9a25-89d28be45629.png">
+![image](https://user-images.githubusercontent.com/94758944/165584673-468b869e-2b53-4e5f-b6bc-5dba0be8d3a6.png)
 
 ## How to use
 - make
